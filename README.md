@@ -1,7 +1,15 @@
 # Magento 2 Sales Promotion Pro (with FREE Gift)
 
 ## Overview
-[Magento 2 Sales Promotion Pro](https://www.magepsycho.com/magento2-sales-promotion-pro-free-gift.html) extension extends the default rule-based promotions of Magento 2 by adding new rules like FREE gift based on several sets of new conditions(New/Specific Customers, All/Specific Subscribers, First Order, Total Number/Amount of Sales, etc.)
+[Magento 2 Sales Promotion Pro](https://www.magepsycho.com/magento2-sales-promotion-pro-free-gift.html) extension extends the default rule-based promotions of Magento 2 by adding new rules like FREE gift based on several sets of new conditions like  
+* New Customer
+* Specific Customers
+* All Subscribers
+* Specific Subscribers
+* First Order
+* Total Number of Sales
+* Total Amount of Sales
+* etc.
 
 ![Magento 2 Sales Promotion Pro Extension](https://www.magepsycho.com/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/m/a/magento2-sales-promotion-pro-450x450.png)
 
